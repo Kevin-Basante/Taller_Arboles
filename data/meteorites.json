@@ -1,0 +1,21 @@
+[
+  {"name": "Allende", "mass_kg": 2000, "country": "Mexico", "year": 1969, "group": "Stony", "classification": "CV3 carbonaceous chondrite", "recovery": "Fell"},
+  {"name": "Murchison", "mass_kg": 100, "country": "Australia", "year": 1969, "group": "Stony", "classification": "CM2 carbonaceous chondrite", "recovery": "Fell"},
+  {"name": "Willamette", "mass_kg": 15500, "country": "United States", "year": 1902, "group": "Iron", "classification": "IIIAB", "recovery": "Found"},
+  {"name": "Peekskill", "mass_kg": 12.57, "country": "United States", "year": 1992, "group": "Stony", "classification": "H6 ordinary chondrite", "recovery": "Fell"},
+  {"name": "Santa Rosa de Viterbo", "mass_kg": 825, "country": "Colombia", "year": 1810, "group": "Iron", "classification": "IAB", "recovery": "Found"},
+  {"name": "Campo del Cielo", "mass_kg": 28840, "country": "Argentina", "year": 1969, "group": "Iron", "classification": "IAB", "recovery": "Found"},
+  {"name": "Sylacauga", "mass_kg": 5.56, "country": "United States", "year": 1954, "group": "Stony", "classification": "H4 ordinary chondrite", "recovery": "Fell"},
+  {"name": "Ensisheim", "mass_kg": 127, "country": "France", "year": 1492, "group": "Stony", "classification": "LL6 ordinary chondrite", "recovery": "Fell"},
+  {"name": "Hoba", "mass_kg": 60000, "country": "Namibia", "year": 1920, "group": "Iron", "classification": "IVB", "recovery": "Found"},
+  {"name": "Cali", "mass_kg": 0.478, "country": "Colombia", "year": 2007, "group": "Stony", "classification": "H/L4 ordinary chondrite", "recovery": "Fell"},
+  {"name": "Nakhla", "mass_kg": 10, "country": "Egypt", "year": 1911, "group": "Martian", "classification": "Nakhlite", "recovery": "Fell"},
+  {"name": "Chelyabinsk", "mass_kg": 654, "country": "Russia", "year": 2013, "group": "Stony", "classification": "LL5 ordinary chondrite", "recovery": "Fell"},
+  {"name": "Jilin", "mass_kg": 4000, "country": "China", "year": 1976, "group": "Stony", "classification": "H5 ordinary chondrite", "recovery": "Fell"},
+  {"name": "Sikhote-Alin", "mass_kg": 23000, "country": "Russia", "year": 1947, "group": "Iron", "classification": "IIAB", "recovery": "Fell"},
+  {"name": "Cape York", "mass_kg": 31000, "country": "Greenland", "year": 1894, "group": "Iron", "classification": "IIIAB", "recovery": "Found"},
+  {"name": "Tissint", "mass_kg": 7, "country": "Morocco", "year": 2011, "group": "Martian", "classification": "Shergottite", "recovery": "Fell"},
+  {"name": "Mbale", "mass_kg": 150, "country": "Uganda", "year": 1992, "group": "Stony", "classification": "L5/6 ordinary chondrite", "recovery": "Fell"},
+  {"name": "Gibeon", "mass_kg": 26000, "country": "Namibia", "year": 1836, "group": "Iron", "classification": "IVA", "recovery": "Found"},
+  {"name": "Esquel", "mass_kg": 755, "country": "Argentina", "year": 1951, "group": "Stony-iron", "classification": "Pallasite", "recovery": "Found"}
+]
